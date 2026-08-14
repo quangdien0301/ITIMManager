@@ -1,1 +1,8 @@
-{"users":[{"name":"Dien","score":100}]}
+{
+  "users": [
+    {
+      "name": "Dien",
+      "score": 300
+    }
+  ]
+}
