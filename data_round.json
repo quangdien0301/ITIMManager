@@ -1,8 +1,11 @@
-
-{"name": "Ho Quang Dien", "round": 0},
-        {"name": "Nguyen Hoang Anh", "round": 0},
-        {"name": "Nguyen Hoang Duy Man", "round": 0},
-        {"name": "Nguyen Quang Thien Tam", "round": 0},
-        {"name": "Vo Thanh Hung", "round": 0},
-        {"name": "Nguyen Thanh Trung", "round": 0},
-        {"name": "Ho Quang Dien", "round": 0}
+{
+  "nextIndex": 0,
+  "users": [
+    {"name": "Ho Quang Dien", "round": 0},
+    {"name": "Nguyen Hoang Anh", "round": 0},
+    {"name": "Nguyen Hoang Duy Man", "round": 0},
+    {"name": "Nguyen Quang Thien Tam", "round": 0},
+    {"name": "Vo Thanh Hung", "round": 0},
+    {"name": "Nguyen Thanh Trung", "round": 0},
+  ]
+}
